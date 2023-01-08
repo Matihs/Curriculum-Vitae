@@ -1,0 +1,88 @@
+body{
+    background-color: #CBEDD5;
+    text-align: center;
+    font-family: 'Montserrat';
+    font-weight: bold;
+    color: #439A97;
+}
+.navbar-brand{
+    font-family: 'Ubuntu';
+    font-weight: 600;
+    font-size: 60px;
+}
+.navbar{
+    padding: 0 0 4.5rem;
+    background-color: #439A97;
+}
+.nav-item{
+    padding: 0 18px;
+}
+h1{
+
+    color: #439a97;
+    text-align: center;
+}
+h2{
+    padding: 5% 5%;
+    background-color: #97DECE;
+    color: #62B6B7;
+
+}
+h3{
+    color: #439A97;
+}
+.perfil-img{
+    
+  
+    width: 200px;
+    height: 200px;
+   
+}
+
+p{
+    color:#439A97;
+    font-size: 20px;
+    font-weight:400px;
+}
+.top-container{
+    
+    text-align: center;
+    position: relative;
+    padding-top: 100px;
+}
+.column-fe{
+    
+padding: 3% 3%;
+text-align: center;
+
+}
+.column-dp{
+    text-align: center;
+    padding: 3% 3%;
+}
+#footer{
+    background-color: #fff;
+    padding: 20px 20px;
+}
+.social-icon{
+color: #439A97;
+margin: 20px 10px;
+
+
+
+
+
+}
+.icon{
+    color: #439A97;
+    background-color: #439A97;
+}
+
+.btnf{
+    color: #439A97;
+}
+.contacto-form{
+    display: inline-block;
+
+    text-align: center;
+}
