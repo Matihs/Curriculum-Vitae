@@ -1,2 +1,2 @@
 # Curriculum-Vitae
-Proyecto Final 
+proyecto Final 
